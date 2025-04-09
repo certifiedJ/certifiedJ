@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my Porfoilo Project and AI Commucation Chat
 - 🌱 I’m currently learning AI Machine Learning & Spring Boot
-- 💬 Ask me about React Native, HTML-CSS, 
+- 💬 Ask me about React Native, HTML-CSS, JavaScript,Spring-Boot, Django
 - 📫 How to reach me: jamesgriffiths23@hotmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Exloring Toronto, Listening to music and playing sports
